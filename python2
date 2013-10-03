@@ -13,6 +13,7 @@
 # any score over 21 is a bust (busted player loses, both bust --> no winner)
 # casino blackjack games have additional options and rules
 
+# this is my comment
 from random import choice as rc
 
 def total(hand):
