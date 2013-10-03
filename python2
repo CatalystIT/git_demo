@@ -12,6 +12,7 @@
 # equal scores is a draw (no winner)
 # any score over 21 is a bust (busted player loses, both bust --> no winner)
 # casino blackjack games have additional options and rules
+# new comment! blackjack! -csm
 
 from random import choice as rc
 
